@@ -1,0 +1,2 @@
+# Arduino-Sensor-Boot-Code
+ This repository contains a comprehensive collection of Arduino sensor codes, covering a wide range of sensors and their functionalities. Each code demonstrates how to interface with specific sensors, providing clear examples of sensor data collection, processing, and output. Whether you're working with temperature, motion, or light sensors, this repository offers detailed, easy-to-follow solutions for each component.
